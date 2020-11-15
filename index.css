@@ -36,3 +36,7 @@ a:hover {
 .profile {
     border-radius: 30px;
 }
+
+.about {
+    font-size: 1.75rem;
+}
