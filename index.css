@@ -1,0 +1,42 @@
+html {
+    background-color: rgb(0, 247, 255);
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section {
+    margin-top: 10px;
+    padding: 20px;
+    background-color: rgb(0, 155, 160);
+    overflow: auto;
+    border-radius: 30px;
+}
+
+a {
+    color: rgb(176, 255, 244);
+    text-decoration: none;
+}
+
+a:active {
+    color: rgb(228, 255, 251);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.right {
+    float: right;
+}
+
+.fist {
+    border-radius: 50%;
+}
+
+.profile {
+    border-radius: 30px;
+}
+
+.about {
+    font-size: 1.75rem;
+}
